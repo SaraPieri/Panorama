@@ -10,6 +10,15 @@ Image stitching requires the following fundamental __steps__:
 * Warping 
 
 The project discussion contains a description of each step and the corresponding design choices and the discussion and comparison of the results obtained.  
-The code is provided along with some test images that we used to test our implementation.    
-Results are shown in the result folder.   
-  
+The code is provided along with some test images that we used to test our implementation.  
+
+## Result  ##
+Results are shown in the result folder.    
+Example:  
+
+__Input Image 1__  
+![alt text]( https://github.com/SaraPieri/Panorama/blob/main/Image_stiching/input_images/p1/i1.jpg "Input Image 1")  
+__Input Image 1__   
+![alt text]( https://github.com/SaraPieri/Panorama/blob/main/Image_stiching/input_images/p1/i2.jpg "Input Image 2")  
+__Result__  
+![alt text]( https://github.com/SaraPieri/Panorama/blob/main/Image_stiching/input_images/p1/i2.jpg "Result")  
