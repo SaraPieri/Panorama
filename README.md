@@ -21,4 +21,4 @@ __Input Image 1__
 __Input Image 1__   
 ![alt text]( https://github.com/SaraPieri/Panorama/blob/main/Image_stiching/input_images/p1/i2.jpg "Input Image 2")  
 __Result__  
-![alt text]( https://github.com/SaraPieri/Panorama/blob/main/Image_stiching/input_images/p1/i2.jpg "Result")  
+![alt text]( https://github.com/SaraPieri/Panorama/blob/main/Image_stiching/outputs/o1.png "Result")  
